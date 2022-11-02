@@ -12,4 +12,6 @@ Particle size was measured using a PCASP (Bloggs at al, 20..)
 
 ANother paper citation (Denisov et al, 2014)
 
-Simulations section
+# Simulations section
+
+# Methodology
