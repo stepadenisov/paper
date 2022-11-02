@@ -1,8 +1,8 @@
 # Title
-Aging of biomass aerosols over West Africa
+Aging of biomass aerosols over West Africa or ? 
 
 # Author
-Garald Capes
+Garald Capes, John Unknown
 
 # Introduction
 We present aircraft measurements of BBOA ...
